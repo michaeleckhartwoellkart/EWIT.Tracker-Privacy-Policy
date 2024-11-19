@@ -4,8 +4,8 @@ We take the protection of your personal data very seriously. This Privacy Policy
 
 ## Data Controller
 The data controller responsible for processing personal data under the General Data Protection Regulation (GDPR) is:  
-Michael Eckhart-Wöllkart
-ewit.apps@gmail.com
+Michael Eckhart-Wöllkart  
+ewit.apps@gmail.com  
 
 ---
 
@@ -61,7 +61,7 @@ We reserve the right to update this Privacy Policy to reflect changes in the law
 
 ---
 
-If you have any questions, please contact us at **[Your Contact Email Address]**.
+If you have any questions, please contact us at ewit.apps@gmail.com .
 
 
 # Datenschutzerklärung (Deutsch)
@@ -70,8 +70,8 @@ Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Diese Datenschutzerk
 
 ## Verantwortlicher
 Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:  
-Michael Eckhart-Wöllkart
-ewit.apps@gmail.com
+Michael Eckhart-Wöllkart  
+ewit.apps@gmail.com  
 
 ---
 
@@ -127,4 +127,4 @@ Wir behalten uns das Recht vor, diese Datenschutzerklärung zu ändern, um sie a
 
 ---
 
-Bei weiteren Fragen können Sie uns unter **[Ihre E-Mail-Adresse]** kontaktieren.
+Bei weiteren Fragen können Sie uns unter ewit.apps@gmail.com  kontaktieren.
